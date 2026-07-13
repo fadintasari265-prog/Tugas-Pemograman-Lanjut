@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Domain/">
+    <File Path="KavlingGeometri.cs" />
+  </Folder>
   <Folder Name="/Solution Items/" />
   <Project Path="Inventaris Lahan/Inventaris Lahan.csproj" />
 </Solution>
